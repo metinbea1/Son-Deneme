@@ -7,7 +7,7 @@ public class FourEqu : MonoBehaviour
     public Text firstNumber, secondNumber, equationSymbol,answer, result;
     public UnityEngine.UI.InputField answerInput;
     int number1, number2, equSymbol;
-    int equationAnswer;
+asdad    int equationAnswer;
 
     void Start()
     {
